@@ -20,7 +20,7 @@
 
 Indicaciones: descargue el siguiente archivo consolidado_2010_2021.csv y peguelo en la ruta raiz de la carpeta del proyetcto
 
-[![Dataset](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://drive.google.com/drive/folders/1-FEul0vOsvGPFkInXSZmq-c38mHQdbui?usp=sharing)
+[![Dataset](https://img.shields.io/badge/DATASET-DATASET-blue)](https://drive.google.com/drive/folders/1-FEul0vOsvGPFkInXSZmq-c38mHQdbui?usp=sharing)
 
 
 ---
@@ -28,4 +28,4 @@ Indicaciones: descargue el siguiente archivo consolidado_2010_2021.csv y peguelo
 
 ## 🍜 Licencia
 
-Este proyecto es de carcater academico [LICENÇA](LICENSE.md) para mas informacion.<br>
+Este proyecto es de carcater academico [LICENCIA](LICENSE.md) para mas informacion.<br>
